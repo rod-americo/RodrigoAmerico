@@ -1,31 +1,39 @@
 # Rodrigo Américo
 
-Radiologist physician working in high-complexity healthcare environments, with a strong interest in the practical application of technology to solve real-world problems in radiology and digital health.
+Radiologist physician with extensive experience in high-complexity healthcare environments, focused on the applied use of software engineering to address real-world problems in radiology, medical imaging, and healthcare operations.
 
-This repository aggregates independent technical projects and experiments focused on applied software engineering within the medical domain, including workflow automation, medical imaging processing, and clinical systems integration.
+This profile consolidates independent, hands-on technical work developed alongside clinical practice, emphasizing execution, system-level thinking, and deep domain integration rather than generic software development.
 
-## Project scope
+## Technical focus
 
-The projects in this repository focus on:
-- automation of radiology operational workflows
-- processing and structuring of medical imaging and data
-- conceptual and technical integration with clinical systems (PACS, RIS, and related platforms)
-- practical validation of ideas and proof-of-concept implementations in real environments
+My technical work centers on applied software engineering in healthcare, including:
 
-All solutions are developed for personal use, in-depth study, and applied experimentation, guided by concrete clinical needs.
+- automation and optimization of radiology workflows
+- medical imaging processing and data extraction
+- interaction with clinical systems and imaging infrastructure (PACS, RIS, DICOM-based environments)
+- design of practical pipelines supporting research, operations, and AI-driven initiatives
 
-## Principles
+The emphasis is on solutions that operate in real clinical contexts, under real constraints, informed by direct medical practice.
 
-- emphasis on practical execution and real-world applicability
-- technology as a tool to address clinical and operational challenges
-- clear separation between independent projects and institutional roles
-- clarity, simplicity, and functionality over unnecessary complexity
+## Scope and maturity
 
-## Organization
+Projects in this profile reflect:
+- senior-level technical reasoning grounded in domain expertise
+- system integration rather than isolated tooling
+- practical execution over academic or exploratory prototypes
+- long-term maintainability and operational relevance
 
-Each individual repository includes its own technical description, documentation, and usage instructions when applicable.
+Several projects and components are maintained in private repositories due to their experimental nature, clinical context, or dependency on non-public data and systems. Public repositories represent selected artifacts and abstractions of broader technical work.
 
-This profile does not represent commercial products or institutional solutions, but rather applied technical capability grounded in healthcare and radiology practice.
+## Positioning
+
+This work does not represent commercial products, consulting offerings, or institutional deliverables.  
+It reflects applied technical capability developed independently, informed by years of clinical, operational, and leadership experience in radiology.
+
+The core value lies at the intersection of:
+- medical domain expertise
+- applied software engineering
+- system-level thinking in healthcare environments
 
 ## Contact
 
